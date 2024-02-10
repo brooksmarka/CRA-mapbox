@@ -1,0 +1,14 @@
+# Dependency directory
+node_modules/
+
+# Environment files
+.env
+
+# Build directory
+/build
+
+# macOS system files
+.DS_Store
+
+# Logs
+npm-debug.log*
