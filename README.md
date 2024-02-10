@@ -1,17 +1,3 @@
-from root
-
-touch .env
-
-sign up for a mapbox api key and add it to the .env file
-
-REACT_APP_MAPBOX_ACCESS_TOKEN=your_mapbox_api_key
-
-npm i
-npm start
-
-this should launch at localhost:3000
-
-
 # Project Setup Instructions
 
 Follow these steps to set up the project:
